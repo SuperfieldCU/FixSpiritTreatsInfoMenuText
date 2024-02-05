@@ -7,4 +7,4 @@ assets:
 - name: message/en/menu/bin/ctdb000.ctd
   method: copy
   source:
-  - name: message/CL_ctdb000.ctd
+  - name: message/TF_ctdb000.ctd
