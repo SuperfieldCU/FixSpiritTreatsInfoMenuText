@@ -1,0 +1,10 @@
+
+title: Fix Spirit Treats Info Menu Text
+originalAuthor: Superfield
+description: Fixes a minor text error with one of the menus in the "virtual pet" mode.
+assets:
+
+- name: message/en/menu/bin/ctdb000.ctd
+  method: copy
+  source:
+  - name: message/CL_ctdb000.ctd
