@@ -2,6 +2,8 @@
 
 For some reason, the PC version of Dream Drop Distance had an error on the Info menu when feeding treats to your Spirit Dream Eaters. This causes the text to overflow the box. Presumably, whoever was porting over the text code thought that the "(Limit: X)" text should go onto its own line, not realizing that the first line won't always fit. And since this is a pretty obscure menu in a mode that isn't exactly the most popular feature ever put into a Kingdom Hearts game, it seems like nobody noticed the error.
 
+The older Epic Game Store version of the game had many instances of this bug which were fixed in the June 13, 2024 update and in the Steam version that launched the same day. However, a single screen still contains this bug, so this mod is still technically serves a purpose. ~~Square Enix almost rendered this mod obsolete and they couldn't manage it you had one job~~
+
 I have altered the code to space the text identically to the PS4 version.
 
 ## Installation
